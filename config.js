@@ -25,32 +25,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/_pahilz26'
+global.sig = 'https://instagram.com/xzy.pinz'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
 global.sgh = 'https://github.com/SaipulAnuar'
 global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6287833306677'
+global.swa = 'wa.me/6281977815539'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '087833306677'
+global.pdana = '081977815539'
 global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '087833306677'
+global.pgopay = '081977815539'
+global.ppulsa = '081977815539'
 global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6287852161042'
-global.nomorown = '6287833306677'
-global.namebot = 'Fahil-Botzラ'
-global.nameown = 'ᴹᴿ᭄ Fahil ×፝֟͜×'
+global.nomorown = '6281977815539'
+global.namebot = 'Apiw-Botzラ'
+global.nameown = 'ᴹᴿ᭄ Apin ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287833306677', 'ᴹᴿ᭄ Fahil ×፝֟͜×', 'true']
+  ['6281977815539', 'ᴹᴿ᭄ Apin ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -94,13 +94,13 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Fahil-Botzラ | By ᴹᴿ᭄ Fahil ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ Fahil ×፝֟͜×'
-global.wm3 = 'Wangsaf-Botzラ | By ᴹᴿ᭄ Fahil ×፝֟͜×'
+global.wm = 'Apiw-Botzラ | By ᴹᴿ᭄ Apin ×፝֟͜×' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄ Apin ×፝֟͜×'
+global.wm3 = 'Wangsaf-Botzラ | By ᴹᴿ᭄ Apin ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Fahil-Botzラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄  By Fahil ×፝֟͜×' 
+global.titlebot = `Apiw-Botzラ | ʙʏ ${global.nameown}`
+global.author = 'ᴹᴿ᭄  By Apin ×፝֟͜×' 
 global.packname = 'ᴹᴿ᭄ Wangsaf Bot ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
@@ -114,13 +114,13 @@ global.thumbs = ['https://telegra.ph/file/3e5e612977f5bb3581e0a.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/3e5e612977f5bb3581e0a.jpg'
 global.thumbWarn = 'https://telegra.ph/file/3e5e612977f5bb3581e0a.jpg'
-global.botintro = 'Hallo, Kenalin saya FAHIL BOTZ Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄  Fahil ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya Apiw BOTZ Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄  Apin ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/3e5e612977f5bb3581e0a.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ Fahil ×፝֟͜×'
+global.nameowner = 'ᴹᴿ᭄ Apin ×፝֟͜×'
 global.umurowner = '18'
-global.asalowner = 'Jatim, Madura'
-global.nomorowner = 'wa.me/6287833306677'
+global.asalowner = 'Tangerang, Jabar'
+global.nomorowner = 'wa.me/6281977815539'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
@@ -369,8 +369,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By Fahil'
-global.stickauth = ` instagram : @_pahilz26`
+global.stickpack = 'By Apin'
+global.stickauth = ` Apiw - Botz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
